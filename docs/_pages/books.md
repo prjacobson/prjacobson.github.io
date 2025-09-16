@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Contact"
-permalink: /contact/
+title: "Books"
+permalink: /other/books
 author_profile: true
 ---
