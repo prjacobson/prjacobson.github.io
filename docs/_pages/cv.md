@@ -14,7 +14,7 @@ For a quicker picture, I've included some highlights of my vitae below:
 
 Education
 ------
-* Ph.D in Experimental Particle Physics, Duke University *(Durham, NC)*
+* *In Progress* PhD Candidate in Experimental Particle Physics, Duke University *(Durham, NC)*, (Expected finish ~2028/29)
 * B.S. in Physics and Mathematics, Berry College *(Rome, GA)*, 2022
 
 Research
@@ -24,15 +24,15 @@ Highlights are best viewed on my [research page](about:blank)! For a one sentenc
 Publications
 ------
 * *[First stave results towards mitigating sensor fracturing with interposers in the ATLAS ITk strips barrel](https://arxiv.org/pdf/2508.18015)*, Contributing author
-  * Submitted to [JINST](https://iopscience.iop.org/journal/1748-0221) in August 2025
+  * Published in [JINST](https://doi.org/10.1088/1748-0221/20/09/p09025) *September 2025*
   
 * *[Benchtop Electrochemical Growth and Controlled Alloying of Polycrystalline $$In_xGa_{1-x}As$$ Thin Films](http://dx.doi.org/10.1021/acs.cgd.2c00241)*, Contributing author
-  * Published in [Crystal Growth & Design](https://pubs.acs.org/journal/cgdefu)
+  * Published in [Crystal Growth & Design](https://pubs.acs.org/journal/cgdefu) *June 2022*
 
 * *[Crystalline growth and alloying of $$In_xGa_{1-x}Sb$$ films by electrodeposition onto liquid metal electrodes](http://dx.doi.org/10.1016/j.rinp.2021.103857)*, Contributing author
-  * Published in [Results in Physics](https://www.sciencedirect.com/journal/results-in-physics)
+  * Published in [Results in Physics](https://www.sciencedirect.com/journal/results-in-physics) *March 2021*
   
 
 Teaching
 ------
-* I've served multiple semesters as a discussion leader for Duke's introductory physics courses. I've also done a variety of exam writing, lab TA-ing, and grading.
+* I've served multiple semesters as a discussion leader for Duke's introductory physics courses. I've also edited exams, TA-ed physics labs, and graded assignments.
