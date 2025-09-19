@@ -5,7 +5,7 @@ permalink: /other/keyboards
 author_profile: true
 ---
 
-I like using small keyboards at my computer. These are typically called "40%" keyboards, referring to their size relative to the norm. They seem to be missing some important keys, but can do everything I need to type, design, and program. The basic principle is more actions less distance: everything I need is right under my fingertips, but I might need to use multiple fingers to do it. In the same way you type "@" by pressing `shift + 2`, I type "2" by pressing `Num. Layer + S` and "@" by pressing `Num. Layer + W`. I've put more of the "how" and what my keymap looks like at the [bottom of the page](about:blank)
+I like using small keyboards at my computer. These are typically called "40%" keyboards, referring to their size relative to the norm. They seem to be missing some important keys, but can do everything I need to type, design, and program. The basic principle is more actions less distance: everything I need is right under my fingertips, but I might need to use multiple fingers to do it. In the same way you type "@" by pressing `shift + 2`, I type "2" by pressing `Num. Layer + S` and "@" by pressing `Num. Layer + W`. I've put more of the "how" and what my keymap looks like at the bottom of this page.
 
 As part of this fun, I've designed cases for pre-existing PCBs (I haven't designed a PCB of my own *yet*). 
 
