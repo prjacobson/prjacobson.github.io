@@ -29,7 +29,7 @@ github_username:  prjacobson
 favicon: "logo.png" # name+extension of favicon (which must be put on the root folder)
 
 # Build settings
-theme: no-style-please
+remote_theme: riggraz/no-style-please
 
 theme_config:
   appearance: "auto" # can be "light", "dark" or "auto"
@@ -40,6 +40,7 @@ theme_config:
 
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
   - jekyll-seo-tag
   - jektex
 
