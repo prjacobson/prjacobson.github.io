@@ -18,7 +18,7 @@ Education
 
 Research
 ------
-Highlights are best viewed on my [research page](about:blank)! For a one sentence pitch: I study single top quark decays in the ATLAS detector, and have previously worked on the strips portion of ATLAS' inner tracker upgrade.
+Highlights are best viewed on my [research page](/research)! For a one sentence pitch: I study single top quark decays in the ATLAS detector, and have previously worked on the strips portion of ATLAS' inner tracker upgrade.
   
 Publications
 ------
