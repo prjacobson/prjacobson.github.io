@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Page Not Found"
+title: "Tippy"
 sitemap: false
 permalink: /tippy
 ---
