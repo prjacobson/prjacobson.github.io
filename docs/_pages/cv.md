@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: page
 title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
@@ -7,7 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
 My full CV can be found [here](../files/CV.pdf)! *Last updated: September 2025*
 
 For a quicker picture, I've included some highlights of my vitae below:

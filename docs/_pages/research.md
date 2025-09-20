@@ -1,11 +1,9 @@
 ---
-layout: archive
+layout: page
 title: "Research"
 permalink: /research/
 author_profile: true
 ---
-
-{% include base_path %}
 
 ## Spin entanglement in single top quark decays
 <img src="../images/single_top_decay.webp"
@@ -26,7 +24,7 @@ In preparation for the High-Luminosity Large Hadron Collider, all of the experim
 *2024-2025*
 
 ## Construction of magnetron sputterer
-<img src="../images/stave_testing_pic.webp"
+<img src="../images/magnetron_sputterer.webp"
      alt="An argon plasma ring on the underside of a copper sheet"
      style="max-width: 80%; height: auto;"
      loading="lazy">

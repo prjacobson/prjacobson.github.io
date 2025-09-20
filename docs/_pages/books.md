@@ -1,11 +1,9 @@
 ---
-layout: archive
+layout: page
 title: "Books"
 permalink: /other/books
 author_profile: true
 ---
-
-{% include base_path %}
 
 ## Debugging Essentials
 <img src="../images/essential_debugging.webp"

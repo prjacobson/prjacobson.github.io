@@ -1,11 +1,9 @@
 ---
-layout: archive
+layout: page
 title: "Other work"
 permalink: /other/
 author_profile: true
 ---
-
-{% include base_path %}
 
 ## [Small keyboards](/other/keyboards)
 I've designed several cases for a variety of small (colloquially "40%") keyboards.  

@@ -1,0 +1,24 @@
+# For documentation on this file, see:
+# https://github.com/riggraz/no-style-please#customize-the-menu
+
+
+entries:
+  - title: About me
+    entries:
+      - title: Experimental high energy particle physicist PhD Candidate at Duke University.
+      - title: More info in my <a href=/about>about</a>
+      - title: CV
+        url: /cv
+  - title: Check out my <a href=/research>Research</a>!
+  - title:  Check out my <a href=/other>Other work</a>!
+  - title: <a href=/contact>Contact</a> me!
+    entries:
+      - title: <span class='emoji'>📍</span> Durham, NC
+      - title: <span class='emoji'>🏫</span> Duke University
+      - title: <span class='emoji'>📧</span> My <a href='mailto:contact@peterjacobson.me'>email</a>
+      - title: <span class='emoji'>💻</span> My <a href='https://github.com/prjacobson'>github</a>
+      - title: <span class='emoji'>💼</span> My <a href='https://www.linkedin.com/in/prjacobson'>LinkedIn</a>
+      - title: <span class='emoji'>🧑‍🔬</span> My <a href='http://orcid.org/0000-0003-0785-2858'>ORCID</a>
+  - title: site information
+    url: /siteinfo
+

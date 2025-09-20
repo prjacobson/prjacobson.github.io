@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: page
 title: "Keyboards"
 permalink: /other/keyboards
 author_profile: true
@@ -13,7 +13,7 @@ As part of this fun, I've designed cases for pre-existing PCBs (I haven't design
 
 <img src="../images/knuqullGlam.webp"
      alt="A knuqull keyboard on a deskmat"
-     style="max-width: 80%; height: auto;"
+     style="max-width: 100%; height: auto;"
      loading="lazy">
      
 This is a handled low-pro case for the [QAZ PCB](https://www.cbkbd.com/product/qaz) based on the existing [Qull](https://www.cbkbd.com/product/qull) case for the QAZ and [KnuckHull](https://trashman.wiki/community/cases/knuckhull) case for the minivan keyboard. I thought handles were fun, and wanted something small but hefty I could lug around.  
@@ -30,7 +30,7 @@ We can look at Knuqull as an example. Custom keyboards can be programmed using [
 
 <img src="../images/keyboard_layout.webp"
      alt="A keyboard layout labeling various functions"
-     style="max-width: 80%; height: auto;"
+     style="max-width: 100%; height: auto;"
      loading="lazy">
 
 The keys next to the two bars are my main keys for switching layers. By pressing the `Nav.` key with my left thumb, I have access to navigation keys under my left hand, and symnol keys under my right hand. By pressing the `Num.` key with my right thumb, I have access to the entire number row and their symbols without moving far from the home row.  

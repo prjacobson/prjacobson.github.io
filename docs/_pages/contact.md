@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: page
 title: "Contact"
 permalink: /contact/
 author_profile: true

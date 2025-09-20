@@ -1,11 +1,9 @@
 ---
-layout: archive
+layout: page
 title: "Standard Model Poster"
 permalink: /other/standardmodel
 author_profile: true
 ---
-
-{% include base_path %}
 
 <img src="../images/standard_model.webp"
      alt="A poster showing the particles of the standard model of particle physics"
@@ -20,4 +18,4 @@ Some notes on design choices:
 * For the Higgs, I wanted a color similar to the pink I'd chosen for the vector bosons.
 
 This poster doesn't explicitly label fermions, assumes natural units by eschewing a $$/c^2$$, and skips labeling values as mass, charge, or spin. These choices were intentional, primarily for aesthetics.  
-The poster was designed to be printed on 28"×22" paper, the file is availible [here](https://github.com/prjacobson/prjacobson.github.io/blob/4819335f1f0f11d29d6fb0c27d82be3b428f9f05/docs/files/Standard-Model-Poster.pdf) if you'd like one for yourself.
+The poster was designed to be printed on 28"×22" paper, the file is available [here](https://github.com/prjacobson/prjacobson.github.io/blob/4819335f1f0f11d29d6fb0c27d82be3b428f9f05/docs/files/Standard-Model-Poster.pdf) if you'd like one for yourself.
